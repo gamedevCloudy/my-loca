@@ -1,4 +1,5 @@
 # my-loca
+
 A get location chrome extension made with plasmo.io
 
 <!-- <video controls width="560" height="315">
@@ -6,6 +7,5 @@ A get location chrome extension made with plasmo.io
   Your browser does not support the video tag.
 </video> -->
 <!-- ![demo](./video/demo.gif) -->
-![demo](https://github.com/1447bits/my-loca/blob/main/video/demo.mp4)
 
 <hr />
